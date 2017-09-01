@@ -6,3 +6,14 @@ http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata
 
 trying to stick to "the rules"
 http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd
+
+
+Some further reading...
+Test-Driven Development by Example
+Kent Beck
+
+Growing Object-Oriented Software: Guided by Tests
+Nat Pryce and Steve Freeman
+
+Clean Code
+Robert Martin
